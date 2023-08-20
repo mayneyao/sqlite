@@ -1,3 +1,8 @@
+build wasm with custom extensions
+- [] fts5 tokenizers for chinese
+- [] vector search
+
+--- original README.md follows ---
 This directory houses the [Web Assembly (WASM)](https://en.wikipedia.org/wiki/WebAssembly)
 parts of the sqlite3 build.
 
